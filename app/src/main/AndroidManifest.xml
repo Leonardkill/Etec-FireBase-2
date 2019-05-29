@@ -20,7 +20,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".activities.InclusaoActivity" />
-        <activity android:name=".ListagemActivy" />
         <activity android:name=".ListagemActivity"></activity>
     </application>
 
